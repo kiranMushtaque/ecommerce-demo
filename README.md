@@ -56,12 +56,11 @@
 ---
 
 ## 🌐 Live Demo
-*(Placeholder for Live Demo Link)*
+*(https://ecommerce-demo-umber.vercel.app/)*
 
----
 
-## 📸 Screenshots
-*(Placeholder for Project Screenshots)*
+
+
 
 ---
 
