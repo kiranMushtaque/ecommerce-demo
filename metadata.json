@@ -1,0 +1,6 @@
+{
+  "name": "Bazaar Plaza E-Commerce",
+  "description": "Premium multi-lingual E-Commerce suite equipped with Secure credit card OTP gateways, interactive inventory grids, live analytics, backups, and fully functional Gemini voice chatbot customer support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
